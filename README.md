@@ -43,8 +43,6 @@ Bu proje açık kaynaklıdır ve yeni özellikler, hata düzeltmeleri ve özelli
 
 Projenin gerçek bir inşaat takip aracı olması için aşağıdaki geliştirmelere ihtiyaç vardır:
 
-Veritabanı Entegrasyonu: Proje verilerinin kalıcı ve güvenilir saklanması (MySQL).
-
 Gelişmiş Kullanıcı Yönetimi: Çoklu kullanıcı desteği, rol ve yetki tanımlamaları.
 
 Detaylı Dokümantasyon: Kurulum kılavuzu, veritabanı şeması ve kullanım talimatları.
